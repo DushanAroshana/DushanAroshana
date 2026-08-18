@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Dushan Aroshana</h1>
 
-<h3 align="center">Software Engineer | Backend Developer | IT Undergraduate</h3>
+<h3 align="center">Software Engineer | Web Developer | IT Undergraduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,8 +16,9 @@
 
 * 🎓 IT Undergraduate at **SLIIT**
 * 💼 Completed a **Software Engineering Internship**
-* ⚙️ Experienced in **Backend Development with Laravel & PHP**
-* 🗄️ Working with **MySQL & RESTful APIs**
+* ⚙️ Interested in **Backend & Full-Stack Development**
+* 🗄️ Working with **PHP/Laravel, Java/Spring Boot, Node.js/Express.js & Python**
+* 🗄️ Familiar with **MySQL, MongoDB & RESTful APIs**
 * ☁️ Familiar with **AWS Cloud Computing**
 * 🚀 Passionate about building scalable and practical software solutions
 
