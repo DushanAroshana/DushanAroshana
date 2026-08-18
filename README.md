@@ -1,47 +1,215 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi ✌️, I'm Dushan</h1>
-<h3 align="center">"Code Alchemist: Turning Ideas into Innovation"</h3>
+# 👋 Hi, I'm Dushan Aroshana
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20views&color=0e75b6&style=flat" alt="DushanAroshana" /> </p>
-
-- 🌱 I am currently an undergraduate student at SLIIT
-
-- 📫 How to reach me **dushanaroshana5@gmail.com**
+### `Software Engineer | Backend Developer | IT Undergraduate`
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushan-aroshana-09068b371/" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/25704027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25704027" height="30" width="40" /></a> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+software+solutions;Backend+Development+with+Laravel+%26+PHP;Exploring+Cloud+Computing+with+AWS;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DushanAroshana">
+    <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/DushanAroshana?tab=followers">
+    <img src="https://img.shields.io/github/followers/DushanAroshana?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools ....***
+## 🧑‍💻 About Me
 
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> </a>  
+I'm an **IT undergraduate at SLIIT** with a strong interest in **Software Engineering, Backend Development, Web Applications, and Cloud Computing**.
+
+I recently completed my **Software Engineering internship**, where I gained practical industry experience working on backend systems and developing web applications using **Laravel and PHP**.
+
+During my internship, I worked with:
+
+* 🔹 Backend development using **Laravel & PHP**
+* 🔹 RESTful API development
+* 🔹 MySQL database design & management
+* 🔹 MVC architecture
+* 🔹 Git & collaborative development
+* 🔹 Requirement analysis and system development
+* 🔹 Debugging, issue fixing & feature implementation
+* 🔹 Working with frontend developers in a team environment
+
+I'm also familiar with **AWS Cloud Computing** and continuously exploring modern technologies to expand my skills.
+
+> 💡 **My goal:** Build scalable, reliable and meaningful software solutions while continuously improving as a Software Engineer.
+
+---
+
+## 🚀 What I'm Currently Focused On
+
+```text
+💻 Software Engineering
+⚙️ Backend Development
+🌐 RESTful APIs
+☁️ AWS & Cloud Computing
+🗄️ Database Design & Management
+🔐 Secure & Scalable Applications
+🤖 Exploring AI-assisted Development
+📚 Continuous Learning
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,kotlin" />
+</p>
+
+### 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,laravel,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,figma,androidstudio,vscode,idea" />
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100px">&nbsp;***GitHub Stats ....***
+## 💼 Professional Experience
+
+### 🏢 Software Engineering Intern
+
+**Software Engineering Internship**
+
+During my internship, I contributed to multiple software projects while working primarily on the backend.
+
+#### 🔧 Key Responsibilities
+
+* Developed backend functionality using **Laravel & PHP**
+* Designed and managed relational databases using **MySQL**
+* Implemented **CRUD operations and RESTful APIs**
+* Worked with **Laravel MVC architecture**
+* Developed and maintained database migrations, models and business logic
+* Debugged existing functionality and resolved software issues
+* Implemented new features based on system requirements
+* Collaborated with frontend developers during development
+* Used **Git** for version control and collaborative development
+* Participated in requirement analysis and system planning
+
+#### 📌 Projects I Contributed To
+
+* 💰 **Accounting / Account Management System**
+* 💵 **Payroll Management System**
+* 👥 **Membership Management Portal**
+
+---
+
+## 📌 Featured Projects
+
+### 🏞️ Online Lands Sale System
+
+A web-based platform designed for managing and facilitating online land sales.
+
+**Technologies:** `HTML` `CSS` `JavaScript` `PHP`
+
+---
+
+### 🎬 MovieHub
+
+A movie-related application developed with a Java backend.
+
+**Technologies:** `Java` `Backend Development`
+
+---
+
+### 💰 SpendWise
+
+A mobile application designed to help users manage and track their personal expenses.
+
+**Technologies:** `Kotlin` `Android Studio`
+
+---
+
+### 👨‍💼 Employee Management System
+
+A full-stack employee management system designed for managing HR-related operations.
+
+**Technologies:** `MongoDB` `Express.js` `React` `Node.js`
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=radical" alt="Summary Card" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DushanAroshana&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=github_dark&utcOffset=5.5" width="45%" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DushanAroshana/DushanAroshana/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎯 My Development Philosophy
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
+
+I believe the best way to grow as a developer is to **build real projects, solve real problems, learn from mistakes, and continuously improve.**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:dushanaroshana5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Dushan%20Aroshana-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dushan%20Aroshana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DushanAroshana">
+    <img src="https://img.shields.io/badge/GitHub-DushanAroshana-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ "Turning ideas into innovation, one line of code at a time."</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
