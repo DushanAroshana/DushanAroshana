@@ -1,54 +1,47 @@
-<!-- Typing Header Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+👋,+I'm+Dushan+Aroshana;Software+Engineering+Intern;Full-Stack+Developer;Code+Alchemist+👨‍💻" alt="Typing SVG" />
-</h1>
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<h1 align="center">Hi ✌️, I'm Dushan</h1>
+<h3 align="center">"Code Alchemist: Turning Ideas into Innovation"</h3>
 
-<!-- Social Badges -->
-<div align="center">
-  <a href="mailto:dushanaroshana5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
-<br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20views&color=0e75b6&style=flat" alt="DushanAroshana" /> </p>
 
-<!-- Modern About Me Section with Table Layout -->
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none;">
-      <h3>🚀 About Me & Experience</h3>
-      <ul>
-        <li>🎓 3rd-year IT Undergraduate at <b>SLIIT</b></li>
-        <li>💼 Software Engineering Intern at <b>AVOMARKS SOLUTIONS PVT LTD</b></li>
-        <li>🛠️ Developed <b>EventMatrix</b> and <b>SmartUniNexus</b> using scalable architectures</li>
-        <li>💻 Merged full-scale Laravel-based Payroll and Accounts systems into production</li>
-        <li>📜 Certified by <b>MongoDB University</b></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <!-- Modern Coding GIF -->
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avocode.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation"/>
-    </td>
-  </tr>
-</table>
+- 🌱 I am currently an undergraduate student at SLIIT
 
-<!-- Tech Stack -->
-<h3 align="center">⚡ Tech Stack</h3>
+- 📫 How to reach me **dushanaroshana5@gmail.com**
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react,spring,java,mysql,mongodb,tailwind,git,github,vscode,postman&perline=12" alt="Tech Stack"/>
-  </a>
+<a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushan-aroshana-09068b371/" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/25704027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25704027" height="30" width="40" /></a> -->
 </p>
 
 ---
 
-<!-- Modern Stats Section (Replaced the failing API with stable ones) -->
-<h3 align="center">🏆 GitHub Achievements & Stats</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools ....***
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DushanAroshana&theme=radical&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> </a>  
 </p>
 
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100px">&nbsp;***GitHub Stats ....***
 <p align="center">
-  <!-- Reliable Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=radical" alt="Summary Card" width="65%" />
 </p>
