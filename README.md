@@ -1,121 +1,47 @@
-<![CDATA[<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Dushan%20Aroshana&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
-</div>
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<h1 align="center">Hi ✌️, I'm Dushan</h1>
+<h3 align="center">"Code Alchemist: Turning Ideas into Innovation"</h3>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Scalable+Web+%26+Mobile+Solutions;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
-  </a>
-</div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20views&color=0e75b6&style=flat" alt="DushanAroshana" /> </p>
 
-<br/>
+- 🌱 I am currently an undergraduate student at SLIIT
 
----
+- 📫 How to reach me **dushanaroshana5@gmail.com**
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Dushan Aroshana
-education: BSc (Hons) in Information Technology | SLIIT (4th Year)
-experience: Software Engineering Intern @ AVORMARKS SOLUTIONS PVT LTD
-focus: Full Stack Development | Backend Systems | Mobile Applications
-```
-
-- 🎓 Final year **Information Technology** undergraduate at **SLIIT**
-- 💼 Software Engineering Intern at **AVORMARKS SOLUTIONS PVT LTD**
-- 🔭 Experienced in building end-to-end web & mobile applications
-- 🧩 Skilled in both **frontend interfaces** and **backend architectures**
-- ⚡ Proficient across multiple tech stacks and frameworks
-- 📧 Reach me at **dushanaroshana5@gmail.com**
+<p align="center">
+<a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushan-aroshana-09068b371/" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/25704027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25704027" height="30" width="40" /></a> -->
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools ....***
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,cpp,kotlin&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&theme=dark" />
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio,linux,vscode&theme=dark" />
-
-</div>
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> </a>  
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=github_dark" width="70%" alt="Profile Details" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=github_dark" width="32%" alt="Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=github_dark" width="32%" alt="Top Languages by Repo" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=github_dark&utcOffset=5.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=default&utcOffset=5.5" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DushanAroshana&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a1b27&hide_border=true" width="90%" alt="Contribution Graph" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:dushanaroshana5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
-]]>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100px">&nbsp;***GitHub Stats ....***
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=radical" alt="Summary Card" width="65%" />
+</p>
