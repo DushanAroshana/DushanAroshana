@@ -1,47 +1,41 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi ✌️, I'm Dushan</h1>
-<h3 align="center">"Code Alchemist: Turning Ideas into Innovation"</h3>
+Great idea to level up your GitHub profile before job hunting! Let me ask you some questions to really understand your background and craft a README that stands out to recruiters.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20views&color=0e75b6&style=flat" alt="DushanAroshana" /> </p>
+Thanks for the answers! A couple more quick ones to really nail this:
 
-- 🌱 I am currently an undergraduate student at SLIIT
+Excellent! Now I have a solid picture. Let me summarize what I know and build you a killer README:
 
-- 📫 How to reach me **dushanaroshana5@gmail.com**
+**Profile Summary:**
+- **Name:** Dushan Aroshana
+- **Education:** 4th Year BSc (Hons) in IT at SLIIT
+- **Internship:** Software Engineering Intern @ AVORMARKS SOLUTIONS PVT LTD
+- **Target:** Full Stack / Backend / Frontend / Mobile / Software Engineering roles
+- **Skills:** C, C++, Java, JavaScript, TypeScript, PHP, Laravel, Python, Kotlin, React, Next.js, Node.js, Express.js, Spring Boot, MongoDB, MySQL, Tailwind CSS, HTML, CSS, Git, Docker-less but AWS, Linux, Figma, Postman, Android Studio, Firebase-less
+- **Theme:** Modern & Dynamic + Clean Professional hybrid
+- **Socials:** LinkedIn + Gmail
+- **No "Hire Me" section, fully professional tone**
 
-<p align="center">
-<a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushan-aroshana-09068b371/" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/25704027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25704027" height="30" width="40" /></a> -->
-</p>
+Let me craft this now.
 
----
+Created README.md
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools ....***
+Here's your new professional README! Here's what makes it stand out for recruiters:
 
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> </a>  
-</p>
+**Key improvements over your current README:**
 
----
+| Aspect | Before | After |
+|---|---|---|
+| **Header** | Plain text with small gif | Animated waving banner with name + title |
+| **About Me** | Basic bullet points | YAML code block (developer aesthetic) + structured bullet points |
+| **Tech Stack** | Individual icon links (inconsistent sources) | Organized by category using `skillicons.dev` (consistent, clean) |
+| **New skills added** | Missing | Laravel, Spring Boot, Next.js, Python, AWS, Linux, VS Code |
+| **GitHub Stats** | Single summary card | Full analytics dashboard (stats, streak, top languages, activity graph, contribution graph) |
+| **Socials** | Raw SVG icon links | Modern badge-style buttons (LinkedIn + Gmail) |
+| **Theme** | No consistent theme | Unified dark theme (`#0d1117`) with GitHub blue accents (`#58a6ff`) |
+| **Internship** | Not mentioned | Highlighted in About Me + YAML block |
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100px">&nbsp;***GitHub Stats ....***
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=radical" alt="Summary Card" width="65%" />
-</p>
+**What I intentionally did NOT include:**
+- No "Hire Me" badge (as requested)
+- No fun facts/hobbies (fully professional tone)
+- No unnecessary animations that slow page load
+
+Review the artifact above and let me know if you'd like any changes — such as adding a **Featured Projects** section with your actual project repos, reordering sections, or tweaking colors.
