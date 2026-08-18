@@ -12,8 +12,9 @@
 
 <br/>
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+---
+
+## 🧑‍💻 About Me
 
 ```yaml
 name: Dushan Aroshana
@@ -22,71 +23,71 @@ experience: Software Engineering Intern @ AVORMARKS SOLUTIONS PVT LTD
 focus: Full Stack Development | Backend Systems | Mobile Applications
 ```
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" />
-
-- 🎓 &nbsp;Final year **Information Technology** undergraduate at **SLIIT**
-- 💼 &nbsp;Software Engineering Intern at **AVORMARKS SOLUTIONS PVT LTD**
-- 🔭 &nbsp;Experienced in building end-to-end web & mobile applications
-- 🧩 &nbsp;Skilled in both **frontend interfaces** and **backend architectures**
-- ⚡ &nbsp;Proficient across multiple tech stacks and frameworks
-- 📧 &nbsp;Reach me at **dushanaroshana5@gmail.com**
-
-<br clear="both"/>
+- 🎓 Final year **Information Technology** undergraduate at **SLIIT**
+- 💼 Software Engineering Intern at **AVORMARKS SOLUTIONS PVT LTD**
+- 🔭 Experienced in building end-to-end web & mobile applications
+- 🧩 Skilled in both **frontend interfaces** and **backend architectures**
+- ⚡ Proficient across multiple tech stacks and frameworks
+- 📧 Reach me at **dushanaroshana5@gmail.com**
 
 ---
 
-<!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🗣️ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,cpp,kotlin&theme=dark" />
-</p>
+**Languages**
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,cpp,kotlin&theme=dark" />
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&theme=dark" />
-</p>
+**Frontend**
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio,linux,vscode&theme=dark" />
-</p>
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&theme=dark" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DushanAroshana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DushanAroshana&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=github_dark" width="70%" alt="Profile Details" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DushanAroshana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DushanAroshana&theme=github_dark" width="70%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DushanAroshana&theme=github_dark" width="32%" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DushanAroshana&theme=github_dark" width="32%" alt="Top Languages by Repo" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=github_dark&utcOffset=5.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=default&utcOffset=5.5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DushanAroshana&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time" />
+  </picture>
 </div>
 
 <br/>
@@ -97,8 +98,7 @@ focus: Full Stack Development | Backend Systems | Mobile Applications
 
 ---
 
-<!-- Connect Section -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> &nbsp;Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dushan-aroshana-09068b371/" target="_blank">
@@ -112,7 +112,6 @@ focus: Full Stack Development | Backend Systems | Mobile Applications
 
 <br/>
 
-<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DushanAroshana&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 </div>
