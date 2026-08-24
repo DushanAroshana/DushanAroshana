@@ -31,7 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,mysql,mongodb,aws,git,postman,figma,playwright" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,mysql,mongodb,aws,git,postman,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="48" alt="playwright" />
 </p>
 
 ---
