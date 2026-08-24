@@ -27,7 +27,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,kotlin" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,js,ts,php,kotlin" />
 </p>
 
 <p align="center">
