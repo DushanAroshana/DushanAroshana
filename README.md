@@ -31,10 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,mysql,mongodb,aws,git,postman,figma" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,mysql,mongodb,aws,git,postman,figma,playwright" />
 </p>
 
